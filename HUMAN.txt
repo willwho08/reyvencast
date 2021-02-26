@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<title> Personal Information </title>
+</head>
+<body style="background-color: pink">
+    <img src="picture.jpg" style=float:left" width: 200px" height="200px" />
+    <p style="float: left">
+	<h2> REYVEN B. CASTRO </h2>
+    </p>
+
+	
+	<hr style="width: 60%" color="black" />
+	<hr style="height: 40px" color="black" />
+	<hr color="gold" />
+
+
+
+</body>
+</html>
